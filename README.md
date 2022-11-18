@@ -19,10 +19,8 @@
 
 ## 👩‍💻 Team members
 
-- **Neel Shah 🦉** - neelshah29042002@gmail.com
-- **Harsh Nag 😎** - harshnag23@gmail.com
-- **Dhruv Kunjadiya 🦊** - dhruvkunjadiya55@gmail.com
-- **Smit Sekhadia 🦅** - smitsekhadia99@gmail.com
+Yash Shroff
+  Dhruvin Thakkar
 
 ## 👨‍🏫 Mentors
 
