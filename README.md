@@ -12,9 +12,6 @@
 
 #### Team Name : **Technobots**
 
-![image](https://user-images.githubusercontent.com/84740927/150295636-992b2691-0b6b-406a-926b-aae0d5f97b91.png)
-
-![ss1](https://user-images.githubusercontent.com/84740927/150291855-a2ef4a4f-8968-4a10-89c9-1f655e46f811.jpeg)
 
 
 ## 👩‍💻 Team members
