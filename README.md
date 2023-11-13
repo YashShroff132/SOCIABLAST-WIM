@@ -19,14 +19,14 @@
 
 ## 👩‍💻 Team members
 
-Yash Shroff
-  Dhruvin Thakkar
+  1.Yash Shroff
+  2.Dhruvin Thakkar
+  3.Smit Sekhadia
 
 ## 👨‍🏫 Mentors
 
-- **Ravi Maurya**
 - **Pankaj Khushalani**
-- **Azeez Dandawala**
+
 
 ## 📝 Description
 
