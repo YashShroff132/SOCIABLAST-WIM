@@ -50,15 +50,9 @@ Making an application with chat + bot considering the following features COMMAND
 7) .reminder
 8) .stocks
 
-![image](https://user-images.githubusercontent.com/84740927/150296115-7920d057-25db-497e-9c6f-26f9ee12b997.png)
 
 
 
-
-
-## 🔗 Links
-
-- GitHub repo link: [Link to repository](https://github.com/Neel-Shah-29/SOCIABLAST)
 
 ## 🤖 Technology Stack
 
